@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bailbondsouthgate.com/sitemap.xml
